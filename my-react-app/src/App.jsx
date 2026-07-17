@@ -2,6 +2,7 @@ import "./App.css";
 import Button from "./components/Button";
 
 function App() {
+
   function handleClick() {
     alert("Button clicked!");
   }
